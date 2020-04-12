@@ -5198,11 +5198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Utilisateur\\Documents\\Asp.net\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\Utilisateur\\Documents\\Asp.net\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "c:\\Users\\Utilisateur\\Documents\\Asp.net\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "C:\\Users\\Utilisateur\\Documents\\Asp.net\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Utilisateur\\Documents\\Asp.net\\DatingApp.API\\obj\\",
+      "outputPath": "C:\\Users\\Utilisateur\\Documents\\Asp.net\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
