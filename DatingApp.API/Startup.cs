@@ -34,7 +34,7 @@ namespace DatingApp.API
             //Liaison avec angular
             services.AddCors();
 
-            //referentiel
+            //referentiel 
             services.AddScoped<IAuthRepository, AuthRepository>();
         }
 
