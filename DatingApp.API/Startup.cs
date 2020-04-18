@@ -33,6 +33,9 @@ namespace DatingApp.API
 
             //Liaison avec angular
             services.AddCors();
+
+            //referentiel
+            services.AddScoped<IAuthRepository, AuthRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
