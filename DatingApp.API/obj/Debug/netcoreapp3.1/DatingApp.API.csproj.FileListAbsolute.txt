@@ -89,7 +89,6 @@ C:\Users\Utilisateur\Documents\Asp.net\DatingApp.API\bin\Debug\netcoreapp3.1\Mic
 C:\Users\Utilisateur\Documents\Asp.net\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Users\Utilisateur\Documents\Asp.net\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
 C:\Users\Utilisateur\Documents\Asp.net\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Utilisateur\Documents\Asp.net\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Utilisateur\Documents\Asp.net\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Utilisateur\Documents\Asp.net\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.exe
 C:\Users\Utilisateur\Documents\Asp.net\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.deps.json

@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace DatingApp.API.Controllers
 {
+   //jeton valide pour voir toutes les valeurs
      [Authorize]
    
     [Route("api/[controller]")]
@@ -34,6 +35,8 @@ namespace DatingApp.API.Controllers
            var values = await _context.Values.ToListAsync();
            return Ok(values);
         }
+
+        //pas besoin d'hautenfication avec jeton
 [AllowAnonymous]
           // GET api/values/5
         [HttpGet("{id}")]
