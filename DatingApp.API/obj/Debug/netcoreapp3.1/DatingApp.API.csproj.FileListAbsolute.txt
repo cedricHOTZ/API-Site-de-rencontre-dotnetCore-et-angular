@@ -149,3 +149,4 @@ C:\Users\Utilisateur\Documents\Asp.net\DatingApp\DatingApp.API\bin\Debug\netcore
 C:\Users\Utilisateur\Documents\Asp.net\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Utilisateur\Documents\Asp.net\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Utilisateur\Documents\Asp.net\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Utilisateur\Documents\Asp.net\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json

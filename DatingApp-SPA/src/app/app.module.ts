@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { ValueComponent } from './Value/Value.component';
 import { NavComponent } from './nav/nav.component';
 import { FormsModule} from '@angular/forms';
+import { AuthService } from './_services/auth.service';
 
 @NgModule({
    declarations: [
@@ -17,7 +18,10 @@ import { FormsModule} from '@angular/forms';
       HttpClientModule,
       FormsModule
    ],
-   providers: [],
+   providers: [
+      
+      AuthService
+   ],
    bootstrap: [
       AppComponent
    ]
