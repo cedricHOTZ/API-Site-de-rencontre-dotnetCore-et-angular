@@ -27,8 +27,8 @@ namespace DatingApp.API.Controllers
         
      }
         
-      
-        // GET api/values
+      [AllowAnonymous]
+        // GET api/values (toute les valeurs)
         [HttpGet]
         public async Task <IActionResult> GetValues()
         {
@@ -38,7 +38,7 @@ namespace DatingApp.API.Controllers
 
         //pas besoin d'hautenfication avec jeton
 [AllowAnonymous]
-          // GET api/values/5
+          // GET api/values/5 (valeur en fonction de l'id)
         [HttpGet("{id}")]
         public async Task <IActionResult> GetValues(int id)
         {
